@@ -8,4 +8,5 @@ RAM is managed by what is called Kernel.
 Kernel is a memory resident, this means that the system remains in memory while the device is being used. 
 
 Types of Operating Systems are devices that are dependent and proprietary.
-A dependent device means it only runs a specific type  or make of a device and a proprietary device is privaetly owned and has a specific vendor or model. What is being used now is what is known as device - independent which means that the operating system can be used on either a computer or mobile device which is provided by many different manufacturing companies.
+A dependent device means it only runs a specific type  or make of a device and a proprietary device is privaetly owned and has a specific vendor or model. 
+What is being used now is what is known as device - independent which means that the operating system can be used on either a computer or mobile device which is provided by many different manufacturing companies.
