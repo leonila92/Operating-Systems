@@ -1,0 +1,3 @@
+Operating system functions is the way a device works. Such as powering on and/ or off a phone or computer.
+Another operating system function is the process of connect to the Internet and updating the software of the device. 
+Also, managing the memory and functionality of the programs being used.
