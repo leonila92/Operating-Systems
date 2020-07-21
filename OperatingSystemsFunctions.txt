@@ -1,3 +1,8 @@
 Operating system functions is the way a device works. Such as powering on and/ or off a phone or computer.
 Another operating system function is the process of connect to the Internet and updating the software of the device. 
 Also, managing the memory and functionality of the programs being used.
+
+Another Operating System function: RAM Chips.
+Ram Chips is the memory of the device.
+RAM is managed by what is called Kernel.
+Kernel is a memory resident, this means that the system remains in memory while the device is being used. 
